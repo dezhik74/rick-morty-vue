@@ -12,6 +12,7 @@
     "vue-router": "4"
   },
   "devDependencies": {
+    "@types/vfile-message": "^2.0.0",
     "@vitejs/plugin-vue": "^2.3.0",
     "@volar/pug-language-service": "^0.33.9",
     "@volar/typescript-language-service": "^0.33.9",
